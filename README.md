@@ -11,3 +11,14 @@ part1
 
 ----
 
+part2
+
+contents of based learning paths
+
+1. Programmming & Scripts
+2. Asset Creation
+3. World Creation
+4. Rendering
+5. Cinematics & Media
+6. Audio
+7. Pipeline & Plugins
