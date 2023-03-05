@@ -24,7 +24,7 @@ different parts:
 6. Audio
 7. Pipeline & Plugins
 
-Learning path:
+Learning Path Content:
 1. Welcome to Game Development
     i. Your First Hour in Unreal Engine 5
     ii. Your First Game in Unreal Engine 5
@@ -41,3 +41,22 @@ Learning path:
     vi. Let There Be Light!
     vii. Large Worlds in UE5: A whole new open world | Unreal Engine
     viii. MetaSounds in UE5: From Miniguns to Music
+3. Welcome to Architectural Visualization
+    i. Comprehending Projects and File Structure
+    ii. Revit to Unreal Engine Fundamantals
+    iii. Archviz Interior Rendering Sample
+    iv. Creating an Architectural Exterior Real-time Project
+    v. Create PBR Materials
+    vi. Landscape Essential Concepts
+    vii. Ray-Traced Cinematic Lighting for Interiors
+4. Welcome to Film and Television
+    i. Your First Hout in UE5
+    ii. Independent Filmmaking with Unreal Engine
+    iii. Download the Slay Animation Sample
+    iv. Slay Documentation
+    v.Slay Workflow
+    vi. Physics-Based Shotviz
+    vii. Meerkat Demo Documetation
+    viii. Download the Meerkat Demo
+    ix.Chossing a real-time performance capture system
+    x. Movie Render Queue Essentials
