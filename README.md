@@ -25,14 +25,14 @@ different parts:
 7. Pipeline & Plugins
 
 Learning Path Content:
-1. Welcome to Game Development
+#### 1. Welcome to Game Development
     i. Your First Hour in Unreal Engine 5
     ii. Your First Game in Unreal Engine 5
     iii. Stack-O-Bot Starter Kit
     iv. Lyra Starter Game
     v. Balancing Blueprint and C++ in Game Development
     vi. Break Down the Components of Gameplay
-2. Welcome to Unreal Engine
+#### 2. Welcome to Unreal Engine
     i. Unreal Engine Documentation
     ii. Installing Unreal Engine
     iii. Content and Samples Documentation
@@ -41,7 +41,7 @@ Learning Path Content:
     vi. Let There Be Light!
     vii. Large Worlds in UE5: A whole new open world | Unreal Engine
     viii. MetaSounds in UE5: From Miniguns to Music
-3. Welcome to Architectural Visualization
+#### 3. Welcome to Architectural Visualization
     i. Comprehending Projects and File Structure
     ii. Revit to Unreal Engine Fundamantals
     iii. Archviz Interior Rendering Sample
@@ -49,7 +49,7 @@ Learning Path Content:
     v. Create PBR Materials
     vi. Landscape Essential Concepts
     vii. Ray-Traced Cinematic Lighting for Interiors
-4. Welcome to Film and Television
+#### 4. Welcome to Film and Television
     i. Your First Hout in UE5
     ii. Independent Filmmaking with Unreal Engine
     iii. Download the Slay Animation Sample
